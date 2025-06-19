@@ -39,4 +39,4 @@ docx (python-docx) – Parses and saves Word documents
 🌐 Supported Languages
 Includes major languages like English, Hindi, Tamil, Telugu, Bengali, Japanese, Arabic, Spanish, French, German, Chinese, and many more. The app supports both input and output language selection.
 
-![App Screenshot](C:\Users\praka\OneDrive\Desktop\MINI Project\output1.png)
+
